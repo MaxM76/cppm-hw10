@@ -1,0 +1,13 @@
+# ninja log v5
+1	2083	6829954260000000	CMakeFiles/my_second_cmake_program.dir/source.cpp.obj	126abda4fbddebab
+1	12779	6829986400000000	CMakeFiles/my_second_cmake_program.dir/figure.cpp.obj	ebafb2296566c894
+1	662	6829987040000000	CMakeFiles/my_second_cmake_program.dir/triangle.cpp.obj	842b762dd3180ee8
+8	6222	6829998500000000	CMakeFiles/my_second_cmake_program.dir/rectangl.cpp.obj	56f403f0dd40ac25
+9	6284	6829998500000000	CMakeFiles/my_second_cmake_program.dir/itriangl.cpp.obj	7b61bbd8db9c764e
+11	6288	6829998500000000	CMakeFiles/my_second_cmake_program.dir/rtriangl.cpp.obj	d5440a507868580a
+4	6289	6829998500000000	CMakeFiles/my_second_cmake_program.dir/quadrlat.cpp.obj	89d4423c366a7e4f
+6	6291	6829998500000000	CMakeFiles/my_second_cmake_program.dir/paralgrm.cpp.obj	ba91a0ef7bbe02aa
+1	6293	6829998500000000	CMakeFiles/my_second_cmake_program.dir/etriangl.cpp.obj	2392263704151e1f
+6223	6847	6829998500000000	CMakeFiles/my_second_cmake_program.dir/square.cpp.obj	aaacfd2b0d8dde41
+6285	6866	6829998500000000	CMakeFiles/my_second_cmake_program.dir/rhomb.cpp.obj	845393202b6bdfdc
+6867	9294	6829998520000000	my_second_cmake_program.exe	3b2ad68a12afc57a

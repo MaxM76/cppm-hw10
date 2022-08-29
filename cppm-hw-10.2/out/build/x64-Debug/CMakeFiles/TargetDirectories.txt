@@ -1,0 +1,3 @@
+D:/cppm-hw10/cppm-hw-10.2/out/build/x64-Debug/CMakeFiles/my_second_cmake_program.dir
+D:/cppm-hw10/cppm-hw-10.2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/cppm-hw10/cppm-hw-10.2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
